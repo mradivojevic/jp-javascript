@@ -1,1 +1,9 @@
 Proba tekstualnog fajla za samo neke beleske
+
+
+Ovaj paket sam instalirao kao da bi smanjio verziju i probao da li radi veza ovako
+
+  763  pip3 uninstall tornado
+  765  pip3 install tornado==5.1.1
+  769  pip3 install tornado=5.1.1 --user
+
